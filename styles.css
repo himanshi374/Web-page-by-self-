@@ -1,0 +1,57 @@
+
+
+
+body, html {
+    margin: 0;
+    padding: 0px;
+    background: url(https://media.istockphoto.com/id/1371944453/vector/blue-abstract-wave-background.jpg?s=612x612&w=0&k=20&c=uaCU_xpsKQLnbnvJH99iAi9uUqEAoS4jcyDwHXlLq5M=) no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 450px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+    font-family: century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+.box-img{
+    border-radius: 40px;
+    width: 200px;
+    height: 350px;
+}
+.box h1{
+    font-size: 45px;
+    letter-spacing: 4px;
+    font-weight: 100px;    
+}
+.box h3{
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: 100px;
+    text-decoration: underline;
+    text-decoration-color: black;
+    
+}
+.box p{
+    text-align: justify;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+.box li{
+    display: inline-block;
+    margin: 10px;
+    list-style: none;
+}
+.box li a{
+    color: whitesmoke;
+    font-size: 20px;
+}
+.box li a:hover{
+    color: darkblue;
+}
